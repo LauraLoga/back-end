@@ -1,0 +1,37 @@
+{
+  "name": "net-tune",
+  "version": "1.0.0",
+  "description": "Mobile app to join musicians and bands to share interests and news.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Llanos/net-tune.git"
+  },
+  "author": "Rodrigo Llanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Llanos/net-tune/issues"
+  },
+  "homepage": "https://gitlab.com/Llanos/net-tune#README",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "extend": "^3.0.0",
+    "jwt-simple": "^0.4.1",
+    "moment": "^2.11.2",
+    "mongoose": "^4.4.5",
+    "mysql": "^2.15.0",
+    "node-extend": "^0.2.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "log": "^1.4.0",
+    "nodemon": "^1.10.2"
+  }
+}
