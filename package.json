@@ -8,14 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/Llanos/net-tune.git"
+    "url": "https://github.com/LauraLoga/back-end.git"
   },
-  "author": "Rodrigo Llanos",
+  "author": "Laura Mira",
   "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/Llanos/net-tune/issues"
-  },
-  "homepage": "https://gitlab.com/Llanos/net-tune#README",
   "dependencies": {
     "bcrypt": "^1.0.2",
     "body-parser": "^1.15.0",
